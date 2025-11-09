@@ -1,0 +1,1 @@
+export default function CaloriPathApp(){return <div>CaloriPath Loaded</div>}
